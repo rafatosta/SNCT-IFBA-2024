@@ -1,0 +1,23 @@
+/* Estilos globais para a página */
+body {
+  background-color: #f0f0f0; /* Cor de fundo suave */
+  font-family: Arial, sans-serif; /* Fonte padrão */
+}
+
+/* Estilo para o título principal */
+h1 {
+  color: #333; /* Cor do texto do título */
+  text-align: center; /* Centraliza o título na página */
+}
+
+/* Estilo para a lista não ordenada */
+ul {
+  list-style-type: square; /* Define os marcadores da lista como quadrados */
+}
+
+/* Estilo para o rodapé */
+footer {
+  text-align: center; /* Centraliza o texto do rodapé */
+  margin-top: 20px; /* Adiciona espaçamento acima do rodapé */
+  color: #555; /* Cor do texto do rodapé */
+}
